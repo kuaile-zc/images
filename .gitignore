@@ -1,0 +1,6 @@
+# ide
+!.gitignore
+*.idea
+*.iml
+*.ipr
+*.iws
